@@ -5,10 +5,13 @@ body {
 
 #app {
   background-color: white;
-  width: 500px;
+  width: 554px;
   margin: 0 auto;
   border: solid 1px #ccc;
   padding: 20px;
+  position: absolute;
+  left: 700px;
+  top: 300px;
  
 }
 
