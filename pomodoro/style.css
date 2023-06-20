@@ -12,7 +12,8 @@ body {
   position: absolute;
   left: 700px;
   top: 300px;
- 
+  border-radius: 20px;
+  box-shadow: 20px 30px 40px 20px rgba(111, 109, 109, 0.2);
 }
 
 #time {
